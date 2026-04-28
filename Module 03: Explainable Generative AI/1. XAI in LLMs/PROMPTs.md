@@ -1,0 +1,3 @@
+Which XAI in LLM techniques are most useful when finetuning LLMs for AI in Medicine tasks? Fill @Module 03: Explainable Generative AI/1. XAI in LLMs/Extra Notes on AI in Medicine.md with latest knowledge on that and knowledge from @Module 03: Explainable Generative AI/1. XAI in LLMs/ separately
+
+Which XAI in LLM techniques are most useful when finetuning LLMs for AI in Peer Review tasks? Fill @Module 03: Explainable Generative AI/1. XAI in LLMs/Extra Notes on AI in Peer Review.md with latest knowledge on that and knowledge from @Module 03: Explainable Generative AI/1. XAI in LLMs/ separately
